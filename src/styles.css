@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import "primeicons/primeicons.css";
+#p-license-host {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  width: 0 !important;
+  height: 0 !important;
+}
